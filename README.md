@@ -1,9 +1,12 @@
 # smartform-backend
+
+This project is a web-based application built using Vue.js, JavaScript, and Java. It allows the company to create and manage customizable forms for their vendors and securely store the data in a database. The vendors can download PDFs and Word docs of the forms they filled out. This application streamlines the vendor management process and helps the company make data-driven decisions based on accurate and timely information.
+
+
+## Getting Started
 Requires Java 17 
 Springboot Version 3.0.2
 https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html
-
-## Getting Started
 ### Install Maven 
 https://www.baeldung.com/install-maven-on-windows-linux-mac
 
